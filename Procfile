@@ -1,0 +1,1 @@
+web: gunicorn nogorhub.wsgi --log-file -
